@@ -16441,7 +16441,7 @@ paths:
         - $ref: '#/components/parameters/UserId'
 tags:
   - name: Omnichannel Users
-  - name: Omnichannel Agents
+  - name: Omnichannel Agents Tags test
   - name: Omnichannel Monitors
   - name: Omnichannel Visitors
   - name: Omnichannel Contacts
