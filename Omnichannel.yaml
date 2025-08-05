@@ -424,7 +424,7 @@ paths:
     get:
       summary: Get Next Agent Information- Update Done
       description: |-
-        Get information about the next available agent for an incoming conversation. This endpoint returns the available agents who have not been assigned to any chat yet. To get the `token` value, call the <a href="https://developer.rocket.chat/apidocs/get-rooms" target="_blank">Get Rooms</a> endpoint to retrieve the details of all rooms.
+        Get information about the next available agent for an incoming conversation. This endpoint returns the available agents who have not been assigned to any chat yet. To get the `token` value, call the <a href="https://developer.rocket.chat/apidocs/get-rooms" target="_blank">Get Rooms</a> endpoint to retrieve the details of all rooms. Description updated
       operationId: get-api-v1-livechat-agent.next
       parameters:
         - name: token
