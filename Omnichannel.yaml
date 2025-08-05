@@ -105,7 +105,7 @@ paths:
       tags:
         - Omnichannel Users
     get:
-      summary: Get List of Agents or Managers
+      summary: Get List of Agents or Managers Sneha Test
       description: |-
         * If the `type` is `manager`, permission required: `view-livechat-manager`.
         * If the `type` is `agent`, permission required: at least one of `transfer-livechat-guest` or `edit-omnichannel-contact`.
